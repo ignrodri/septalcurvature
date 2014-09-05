@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2235D702-D06B-4690-A37F-72D7AF4C5632</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CnicUiaSeptumCurvature</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC88038C-AE9E-484D-B217-1519759C0225</key>
+		<string>https://osirixplugins.svn.sourceforge.net/svnroot/osirixplugins</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>_help/CnicUiaSeptumCurvature/CnicUiaSeptumCurvature.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC88038C-AE9E-484D-B217-1519759C0225</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>DC88038C-AE9E-484D-B217-1519759C0225</key>
+		<string>https://osirixplugins.svn.sourceforge.net/svnroot/osirixplugins</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://osirixplugins.svn.sourceforge.net/svnroot/osirixplugins/_help/CnicUiaSeptumCurvature/CnicUiaSeptumCurvature.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC88038C-AE9E-484D-B217-1519759C0225</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC88038C-AE9E-484D-B217-1519759C0225</string>
+			<key>IDESourceControlWCCName</key>
+			<string>osirixplugins old</string>
+		</dict>
+	</array>
+</dict>
+</plist>
